@@ -1,2 +1,2 @@
 # Slot-Machine-Game
-This is a casino slot game base on matching the emojis.
+This is a casino slot game based on matching the emojis.
